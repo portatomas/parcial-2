@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsSUMA1", "WinFormsSUMA1.csproj", "{F78961A2-CF2F-4202-A57F-5FD491AC9732}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "suma de numeros 1", "..\suma de numeros 1\suma de numeros 1.csproj", "{4E49F344-90B3-4B81-AD77-22D95547D777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78961A2-CF2F-4202-A57F-5FD491AC9732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78961A2-CF2F-4202-A57F-5FD491AC9732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78961A2-CF2F-4202-A57F-5FD491AC9732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78961A2-CF2F-4202-A57F-5FD491AC9732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E49F344-90B3-4B81-AD77-22D95547D777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E49F344-90B3-4B81-AD77-22D95547D777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E49F344-90B3-4B81-AD77-22D95547D777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E49F344-90B3-4B81-AD77-22D95547D777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D675C10-B6DF-46C5-A4C0-D68DAAC5A502}
+	EndGlobalSection
+EndGlobal

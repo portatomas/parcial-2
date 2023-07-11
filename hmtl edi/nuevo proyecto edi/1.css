@@ -1,0 +1,119 @@
+
+*body{   
+  box-sizing: border-box; 
+   margin: 1;
+   font-size: 20px;
+   padding: 1;
+   font-family: none;
+   font-size: 20px;
+   width:100px ;
+   height:200px ;
+   
+}
+.contenedor{
+   width: 1500px;
+   height: 700px;
+}
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align:center;
+   margin: 0 10px 0 0;
+}
+.navbarimg{
+   height: 50px;
+   position: left;
+
+}
+#header{
+   widows: 50%;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   background-color: red;
+
+}
+#main{
+   width:100% ;
+   height: 50px;
+}
+.navbar{
+   width: 80%;
+   height: 50px;
+   background-color: blue;
+}
+.float-l{
+float: left;
+}
+#navegador li a {
+   widows: 100%;
+   height: 50px;
+   padding: 20px;
+   color: #666;
+   background-color: #000000;
+   border: 10px solid #FF9800;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color:#BCAAA4 ;
+   color:#BCAAA4 ;
+}
+body{background-color:#ABB2B9 ; }
+
+.caja1{ 
+   width:300px;
+   height: 450px;
+   background: blue;
+   margin: 0 10px;
+   padding: 10px 3px;
+   float:right ;
+   background-image:url(C:\Users\acer\OneDrive\Escritorio/logotipo.jpg) ;
+   background-size: contain;
+   
+}
+h1 a{
+   text-decoration: none;
+   color: violet;
+}
+   #footer{
+    width: 100%;
+    height: 30px;
+
+    background-color:violet ;
+
+    display: flex;
+    align-items: center; 
+
+   }
+   #footer a{
+      #padding-left:15px;
+      width: 50%;
+
+   }
+
+   #footer a:hover{
+      front-weight:bold;
+      
+   }
+   #footer p{
+      text-align: right;
+      padding-right:15px ;
+      width: 50%;
+   }
+   .contenedor{
+   width: 740px;
+   height:1000px ;
+   background-image:url("C:\Users\acer\OneDrive\Escritorio/leaves-plants-neon-hd-wallpaper-preview.jpg") ;
+
+   }
+
+   .logo img{
+      height: 30pxpx;
+      width:auto ;
+
+   }
+
+   

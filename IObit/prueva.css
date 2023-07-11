@@ -1,0 +1,27 @@
+.contenedor{
+	display:grid;
+	grid-template: areas"nav nav""menu body""footer footer";
+	grid.grid-template-columns:1fr 1fr ;
+
+}
+
+.nav{
+	grid grid-area: nav;
+	background-clip: red;
+
+}
+
+.menu{
+	grid-area: menu;
+}
+
+.body{
+	grid-area: body;
+}
+
+.footer{
+	grid-area: footer;
+}
+.caja1{
+	background-color: red;
+}

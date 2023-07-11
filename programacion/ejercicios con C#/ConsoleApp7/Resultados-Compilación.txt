@@ -1,0 +1,6 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: ConsoleApp7, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>ConsoleApp7 -> C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 10:55 PM y tomó 00,291 segundos ==========

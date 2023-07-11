@@ -1,0 +1,6 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: ejercicio 31, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>ejercicio 31 -> C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ejercicio 31\ejercicio 31\bin\Debug\net6.0\ejercicio 31.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 4:29 PM y tomó 01,749 segundos ==========

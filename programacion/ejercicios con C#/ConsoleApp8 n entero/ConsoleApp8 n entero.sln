@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp8 n entero", "ConsoleApp8 n entero\ConsoleApp8 n entero.csproj", "{F3E0BE91-1744-4589-B50F-F52D3853B26F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio8form", "ejercicio8form\ejercicio8form.csproj", "{62EC4EA6-5D81-48BC-87D5-41497B39667A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E0BE91-1744-4589-B50F-F52D3853B26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E0BE91-1744-4589-B50F-F52D3853B26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E0BE91-1744-4589-B50F-F52D3853B26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E0BE91-1744-4589-B50F-F52D3853B26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EC4EA6-5D81-48BC-87D5-41497B39667A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EC4EA6-5D81-48BC-87D5-41497B39667A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EC4EA6-5D81-48BC-87D5-41497B39667A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EC4EA6-5D81-48BC-87D5-41497B39667A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AC8503-8E52-40BC-B1EF-342652933D9B}
+	EndGlobalSection
+EndGlobal

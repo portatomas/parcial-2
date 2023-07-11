@@ -1,0 +1,11 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: Proyecto: ConsoleApp6, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp6\ConsoleApp6\Program.cs(13,1,13,7): warning CS0164: No existe ninguna referencia a esta etiqueta
+1>C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp6\ConsoleApp6\Program.cs(14,1,14,7): warning CS0164: No existe ninguna referencia a esta etiqueta
+1>C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp6\ConsoleApp6\Program.cs(8,8,8,14): warning CS0168: La variable 'valor2' se ha declarado pero nunca se usa
+1>C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp6\ConsoleApp6\Program.cs(9,8,9,14): warning CS0168: La variable 'valor3' se ha declarado pero nunca se usa
+1>ConsoleApp6 -> C:\Users\acer\OneDrive\Escritorio\ejercicios con C#\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+1>Compilación del proyecto "ConsoleApp6.csproj" terminada.
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========= Compilar se inició en 11:04 PM y tomó 00,762 segundos ==========
